@@ -17,7 +17,7 @@
     <div align="center">
         Welcome!
         <h4>List employees <a href="list">here</a></h4>
-        <h4>List department <a href="listDept">here</a></h4>
+        <h4>List department <a href="listDepartment">here</a></h4>
     </div>
 </body>
 </html>
