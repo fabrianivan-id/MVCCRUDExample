@@ -10,23 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeac438b-1008-496d-bd37-d41fe87fa9b3" name="Default Changelist" comment="ListDepartment update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/controller/DepartmentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/dao/DepartmentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/dao/DepartmentDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/model/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/service/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/service/DepartmentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Department.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/DepartmentForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bootcamp/controller/DepartmentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bootcamp/dao/DepartmentDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bootcamp/dao/DepartmentDAOImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bootcamp/model/Department.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bootcamp/service/DepartmentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bootcamp/service/DepartmentServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Department.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Department.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/DepartmentForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/DepartmentForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Employee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Employee.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/EmployeeForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/EmployeeForm.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MVCCRUDExample.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVCCRUDExample/WEB-INF/views/Department.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/MVCCRUDExample/WEB-INF/views/Department.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MVCCRUDExample/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/MVCCRUDExample/WEB-INF/views/home.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -881,7 +872,24 @@
       <workItem from="1610032721220" duration="878000" />
       <workItem from="1610071134271" duration="11832000" />
       <workItem from="1610104315675" duration="785000" />
+      <workItem from="1610105171513" duration="1476000" />
+      <workItem from="1610166256807" duration="1342000" />
     </task>
+    <task id="LOCAL-00001" summary="ListDepartment updated">
+      <created>1610105246048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610105246048</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ListDepartment updated">
+      <created>1610105356812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610105356812</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -901,7 +909,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ListDepartment update" />
-    <option name="LAST_COMMIT_MESSAGE" value="ListDepartment update" />
+    <MESSAGE value="ListDepartment updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="ListDepartment updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
